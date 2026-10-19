@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+bureaucratic_intelligence_report.json
+results.txt
